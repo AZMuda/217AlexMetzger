@@ -1,0 +1,22 @@
+@charset "UTF-8"
+/* CSS Document*/
+body{
+  background-color:#ADD8E6;
+}
+
+#Wrapper{
+  background-color: #800080;
+  width:90%;
+}
+
+header {
+  background-color: #FFFF00;
+}
+
+article {
+  background-color: #FFFF00;
+}
+
+footer {
+  background-color: #FFFF00;
+}
