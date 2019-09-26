@@ -60,3 +60,6 @@ nav{
 	margin-left: 132px;
 	float: left;
 }
+li{
+	display:inline;
+}
