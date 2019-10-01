@@ -49,6 +49,7 @@ table {
 #wrapper {
 	width:960px;
 	background-color: rgba(252, 252, 252, 0.5);
+	overflow: hidden;
 }
 header {
 	margin-left: 10px;
