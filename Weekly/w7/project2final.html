@@ -45,12 +45,15 @@ h2 {
 h3 {
   font-size: 200%;
 }
+h4{
+  font-size: 160%;
+}
 h6{
 }
 div {
   border-style: solid;
 }
-hr {
+border {
 width: 100%;
 height: 5px;
 background-color: Black;
@@ -66,14 +69,19 @@ border-width: 2px;
 <body>
 
 <header>
-
 <h1>RAY'S HELLBURGER</h1>
+<ul>
+  <li><a href="file:///Users/soa1/Desktop/project2final.html">HOME</a></li>
+  <li><a href="#identifier">MENU</a></li>
+  <li><a href="#ABOUT">ABOUT</a></li>
+  <li><a href="#identifier">CONTACT</a></li>
+</ul>
+<h6>Open Daily from 11:00 am until 10:00 pm</h6>
 <img src="burgerpic.jpg" alt="burger" height= "720px" width= "1160px">
-
+  <p>For Reservations call 01 223-367-4800</p>
 </header>
 <main>
-
-<h6>Open Daily from 11:00 am until 10:00 pm</h6>
+  <div id="identifier"></div>
 <h2>MENU</h2>
       <div class="column">
         <h3>BURGERS</h3>
@@ -127,7 +135,7 @@ border-width: 2px;
           <h4>$2.00</h4>
           <h5>Our Fries are cooked in pure, no cholesterol and tasty peanut oil.</h5>
         </div>
-        <p>Complimentary Toppings:</p>
+        <h4>Complimentary Toppings:</h4>
         <p>Luttuce</p>
         <p>Tomato</p>
         <p>Grilled Onions</p>
@@ -139,6 +147,8 @@ border-width: 2px;
         <p>Fiery Piranha Sauce</p>
         <p>BBQ Sauce</p>
         <p>Mayo</p>
+      </div>
+
 </main>
 <div id="info">
 
@@ -146,9 +156,14 @@ border-width: 2px;
 </section>
 
 <footer>
+  <h2>ABOUT</h2>
+  <div id="ABOUT">
+  <h4>Ray's Hell Burger is a locally owned chain in the DC Metro Area. We got
+    our start back in 2008 in Arlington, serving burgers made with Prime Steak
+    of the highest quality. Our burgers come in all kinds of varieties for
+    anyone to enjoy!</h4>
   <br>
-  <hr>
-  <p>For Reservations call 01 223-367-4800</p>
+  <border>
   <p>1234 Wilson Boulevard, Arlington, VA</p>
 <div> ©2019 ALL RIGHTS RESERVED RAY'S HELL BURGER</div>
 </footer>
