@@ -51,9 +51,17 @@ table {
 header {
   margin-left: 10px;
 	float: left;
-	width:960px;
+	width:100%;
   padding: 1em;
 	color: #ffffff;
+}
+
+#overlay img { display: none; }
+
+#overlay.currently-loading img {
+    display: block;
+    width: 100%;
+    heigth: 100%;
 }
 
 h1{
@@ -69,7 +77,9 @@ li{
 	color: #ffffff;
 }
 ul{
-	margin-top: 80px;
+	float: right;
+	margin-right: 80px;
+	margin-top: 0px;
 	color: #ffffff;
 }
 
