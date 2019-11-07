@@ -90,5 +90,7 @@ ul{
 
 body {
 	margin-top: 25px;
+	max-width: 500px;
+  margin: auto;
 background-color: Black;
 }
