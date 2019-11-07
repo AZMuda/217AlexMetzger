@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	color: white;
 }
 ol, ul {
 	list-style: none;
@@ -52,9 +53,11 @@ header {
 	float: left;
 	width:960px;
   padding: 1em;
+	color: white;
 }
 
 h1{
+	color: white;
     font-size: 200%;
 }
 
@@ -63,9 +66,11 @@ li{
 	margin-left: 28px;
   margin-top: 28px;
   font-size: 150%;
+	color: white;
 }
 ul{
 	margin-top: 80px;
+	color: white;
 }
 
 body {
