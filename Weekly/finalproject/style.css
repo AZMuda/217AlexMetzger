@@ -54,6 +54,11 @@ header {
 	width:100%;
   padding: 1em;
 	color: #ffffff;
+	
+	background-image: url('story.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 #overlay img { display: none; }
