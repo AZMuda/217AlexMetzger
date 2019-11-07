@@ -62,7 +62,7 @@ h1{
 }
 
 li{
- 	<!-- display:inline; -->
+ 	display:inline;
 	margin-left: 28px;
   margin-top: 28px;
   font-size: 150%;
