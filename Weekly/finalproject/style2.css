@@ -96,8 +96,9 @@ background-color: Black;
 
 main {
 	 margin: 0 auto;
+	margin-left: 10px;
 	margin-top: 25px;
-	max-width: 1000px;
+	width:100%;
 	
 	background-image: url('original.gif');
   background-repeat: no-repeat;
