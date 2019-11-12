@@ -55,7 +55,7 @@ header {
   padding: 1em;
 	color: #ffffff;
 	padding-bottom: 1000px;
-	
+
 	background-image: url('story.gif');
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -102,7 +102,7 @@ background-color: Black;
 main {
 	 margin: 0 auto;
 	margin-top: 25px;
-	max-width: 1000px;
+	max-width: 2000px;
 }
 
 footer {
