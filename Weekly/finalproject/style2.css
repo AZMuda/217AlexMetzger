@@ -98,6 +98,11 @@ main {
 	 margin: 0 auto;
 	margin-top: 25px;
 	max-width: 2000px;
+	
+	background-image: url('original.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 footer {
