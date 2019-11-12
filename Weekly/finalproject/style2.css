@@ -97,7 +97,7 @@ background-color: Black;
 main {
 	 margin: 0 auto;
 	margin-top: 25px;
-	max-width: 2000px;
+	max-width: 1000px;
 	
 	background-image: url('original.gif');
   background-repeat: no-repeat;
