@@ -31,7 +31,6 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 	color: #ffffff;
-	font: 'bebas_neueregular';
 }
 ol, ul {
 	list-style: none;
@@ -49,17 +48,7 @@ table {
 	border-spacing: 0;
 }
 
-@font-face {
-    font-family: 'bebas_neueregular';
-    src: url('bebasneue-regular-webfont.woff2') format('woff2'),
-         url('bebasneue-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
 header {
-	font-family: 'bebas_neueregular';
   margin-left: 10px;
 	float: left;
 	width:100%;
@@ -82,7 +71,6 @@ header {
 }
 
 h1{
-	font-family: 'bebas_neueregular';
 	color: #ffffff;
     font-size: 200%;
 		margin-left: 100px;
@@ -90,7 +78,6 @@ h1{
 }
 
 h2{
-	font-family: 'bebas_neueregular';
 	color: #ffffff;
     font-size: 150%;
 		margin-left: 100px;
@@ -98,13 +85,11 @@ h2{
 }
 
 h3{
-	font-family: 'bebas_neueregular';
 	color: #ffffff;
     font-size: 200%;
 }
 
 li{
-	font-family: 'bebas_neueregular';
  	display:inline;
 	margin-left: 28px;
   margin-top: 28px;
@@ -112,7 +97,6 @@ li{
 	color: #ffffff;
 }
 ul{
-	font-family: 'bebas_neueregular';
 	float: right;
 	margin-right: 80px;
 	margin-top: 0px;
@@ -120,13 +104,12 @@ ul{
 }
 
 body {
-	font-family: 'bebas_neueregular';
+	font-family: sans-serif;
   margin: auto;
 background-color: Black;
 }
 
 main {
-	font-family: 'bebas_neueregular';
 	 margin: 0 auto;
 	margin-top: 25px;
 	max-width: 2000px;
