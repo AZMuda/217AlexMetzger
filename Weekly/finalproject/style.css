@@ -54,7 +54,7 @@ header {
 	width:100%;
   padding: 1em;
 	color: #ffffff;
-	padding-bottom: 1000px;
+	padding-bottom: 300px;
 
 	background-image: url('story.gif');
   background-repeat: no-repeat;
@@ -76,6 +76,9 @@ a {
 a:visited {
   color: #FC02CB;
 }
+a:hover {
+  color: #bf00ff;
+}
 
 h1{
 	color: #ffffff;
@@ -87,7 +90,7 @@ h1{
 h2{
 	color: #ffffff;
     font-size: 150%;
-		margin-left: 100px;
+		margin-left: 25px;
 		margin-right: 100px;
 }
 
@@ -125,3 +128,4 @@ main {
 footer {
 	margin-top: 50px;
 }
+
