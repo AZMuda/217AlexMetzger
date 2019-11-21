@@ -70,6 +70,13 @@ header {
     heigth: 100%;
 }
 
+a {
+  color: #02DEFC;
+}
+a:visited {
+  color: #FC02CB;
+}
+
 h1{
 	color: #ffffff;
     font-size: 200%;
